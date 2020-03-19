@@ -1,0 +1,22 @@
+# 编排服务（容器），每个服务启动一个镜像
+
+version: "3"
+
+services:
+  mysql:
+    restart: always
+    image: mysql:5.7
+    ports:
+      - "3306:3306"
+    environment:
+      MYSQL_ROOT_PASSWORD: "12345678"
+    volumes:
+      - mysqldb:/var/lib/mysql
+      - ./docker/mysql/my.cnf:/etc/my.cnf
+      - ./docker/mysql/init:/docker-entrypoint-initdb.d/
+  # 如果构建了私有镜像beego-web，取消注释go-web服务
+  # go-web:
+  #   restart: always
+  #   image: beego-web
+  #   ports:
+  #     - "8080:8080"

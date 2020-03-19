@@ -1,0 +1,106 @@
+{
+  "data": [
+    {
+      "cateId": "1",
+      "cateName": "手机通讯",
+      "products": [
+        {
+          "name": "vivo iQOO旗舰新品",
+          "img": "http://gju2.alicdn.com/tps/i3/O1CN0147JEEe23ooz3rBDAX_!!1-juitemmedia.gif",
+          "priceMarket": "2999",
+          "price": "2888",
+          "selledNum": "3815"
+        },
+        {
+          "name": "小米9SE骁龙712水滴屏拍照智能手机",
+          "img": "https://img.alicdn.com/bao/uploaded/i6/TB1De0tyrvpK1RjSZFqz7MXUVXa_052228.jpg",
+          "priceMarket": "3199",
+          "price": "2999",
+          "selledNum": "5100"
+        },
+        {
+          "name": "荣耀20i拍照手机",
+          "img": "https://img.alicdn.com/bao/uploaded/i1/TB17dfsdkL0gK0jSZFtTshQCXXa_110519.jpg",
+          "priceMarket": "1999",
+          "price": "1599",
+          "selledNum": "2355"
+        },
+        {
+          "name": "小米9SE骁龙712水滴屏拍照智能手机",
+          "img": "https://img.alicdn.com/bao/uploaded/i3/TB113uCb13tHKVjSZSgaxx4QFXa_113422.jpg",
+          "priceMarket": "2199",
+          "price": "1099",
+          "selledNum": "9500"
+        }
+      ]
+    },
+    {
+      "cateId": "2",
+      "cateName": "精品女装",
+      "products": [
+        {
+          "name": "牛仔老爹裤，拯救不完美腿型！",
+          "img": "https://img12.360buyimg.com/n7/jfs/t1/27570/37/7606/150611/5c6e71c7E7cf3f369/c16e9275a9e178ae.jpg",
+          "priceMarket": "178",
+          "price": "888",
+          "selledNum": "8018"
+        },
+        {
+          "name": "买一送一 纯棉t恤 60款任选",
+          "img": "https://img12.360buyimg.com/n7/jfs/t1/78826/14/5356/135834/5d373441Ef1779df7/9e47cb75c5c90d2c.jpg",
+          "priceMarket": "199",
+          "price": "99",
+          "selledNum": "9089"
+        },
+        {
+          "name": "宽松休闲网红小西装外套女",
+          "img": "https://img13.360buyimg.com/n7/jfs/t20917/77/602150288/361355/29c206bd/5b122bf7Nc1b52333.jpg",
+          "priceMarket": "199",
+          "price": "129",
+          "selledNum": "156"
+        },
+        {
+          "name": "修身纯棉T恤女 多款 多领 多色选择",
+          "img": "https://img11.360buyimg.com/n7/jfs/t1/62771/37/411/164771/5ce8f305E33da9643/ee839305ca163ee8.jpg",
+          "priceMarket": "128",
+          "price": "39",
+          "selledNum": "9089"
+        }
+      ]
+    },
+    {
+      "cateId": "3",
+      "cateName": "家用电器",
+      "products": [
+        {
+          "name": "2019年度新品 石头扫地机器人T61",
+          "img": "https://img12.360buyimg.com/n7/jfs/t1/53367/7/132/345585/5cd2c3e7E0c168f38/c63167c28d480671.jpg",
+          "priceMarket": "2799",
+          "price": "2688",
+          "selledNum": "1022"
+        },
+        {
+          "name": "爆品！美的大1.5匹变频家用空调",
+          "img": "http://gju4.alicdn.com/tps/i3/O1CN01yb1RIp24Nd4gYmg3c_!!1-juitemmedia.gif",
+          "priceMarket": "2799",
+          "price": "2499",
+          "selledNum": "856"
+        },
+        {
+          "name": "AUX/奥克斯空调 大1.5匹定速冷暖节",
+          "img": "https://img13.360buyimg.com/n7/jfs/t1/51661/18/7686/220456/5d53c8b4Ed0d465a6/50ba524dfc2372c1.jpg",
+          "priceMarket": "2599",
+          "price": "1800",
+          "selledNum": "1200"
+        },
+        {
+          "name": "迷你小冰箱车家两用学生宿舍用",
+          "img": "https://img12.360buyimg.com/n7/jfs/t1/60344/27/7359/264327/5d5777faE40d5602c/e1452db81969b294.png",
+          "priceMarket": "899",
+          "price": "520",
+          "selledNum": "1036"
+        }
+      ]
+    }
+  ]
+}
